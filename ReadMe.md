@@ -54,7 +54,11 @@ Retail_Demand_Forecast/
     cd Forecasting_app
     streamlit run app.py
     ``` 
-*![screenshot](image.png)*
+## Screenshots
+
+*Add screenshots here to showcase the UI and plots.*
+*![alt text](image.png)*
+
 
 ## Requirements
 
