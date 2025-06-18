@@ -1,0 +1,38 @@
+# Common Python ignores
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+*.ipynb_checkpoints
+#*.pkl
+*.h5
+*.csv
+*.tsv
+*.parquet
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore MLflow results
+mlflow_results/
+
+# Ignore Data_Kaggel_&_Guarayas folder
+Data_Kaggel_&_Guarayas/
+
+# Ignore OS generated files
+Thumbs.db
+.DS_Store
