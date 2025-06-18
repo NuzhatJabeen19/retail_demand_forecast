@@ -14,7 +14,7 @@ Retail_Demand_Forecast/
 │   ├── app.py
 │   └── forecasts/
 ├── mlflow_results/             # MLflow experiment tracking results (ignored in git)
-├── Data_Kaggel_&_Guarayas/     # External data sources (ignored in git)
+├── Data_Kaggel_&_Guayas/     # External data sources (ignored in git)
 ├── requirements.txt            # Python dependencies
 ├── README.md                   # Project documentation
 └── .gitignore
